@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Oct 2024 23:26:40 at https://validthemes.net/site-template/vifolio/index-9.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://validthemes.net/site-template/vifolio/index-9.html#
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://validthemes.net/site-template/vifolio/index-9.html# -O1 "C:\My Web Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://validthemes.net/site-template/vifolio/index-9.html# )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/glyphicons-halflings-regular.eot (from https://validthemes.net/site-template/vifolio/assets/css/bootstrap.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/glyphicons-halflings-regular.eot? (from https://validthemes.net/site-template/vifolio/assets/css/bootstrap.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/glyphicons-halflings-regular.woff2 (from https://validthemes.net/site-template/vifolio/assets/css/bootstrap.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/glyphicons-halflings-regular.woff (from https://validthemes.net/site-template/vifolio/assets/css/bootstrap.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/glyphicons-halflings-regular.ttf (from https://validthemes.net/site-template/vifolio/assets/css/bootstrap.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/glyphicons-halflings-regular.svg (from https://validthemes.net/site-template/vifolio/assets/css/bootstrap.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/fa-brands-400.svg (from https://validthemes.net/site-template/vifolio/assets/css/font-awesome.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/fa-regular-400.svg (from https://validthemes.net/site-template/vifolio/assets/css/font-awesome.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/fa-solid-900.svg (from https://validthemes.net/site-template/vifolio/assets/css/font-awesome.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/Flaticon.eot (from https://validthemes.net/site-template/vifolio/assets/css/flaticon-set.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/fonts/Flaticon.eot? (from https://validthemes.net/site-template/vifolio/assets/css/flaticon-set.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/css/Flaticon.svg (from https://validthemes.net/site-template/vifolio/assets/css/flaticon-set.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/assets/css/owl.video.play.png (from https://validthemes.net/site-template/vifolio/assets/css/owl.carousel.min.css)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/Popover requires tooltip.js (from https://validthemes.net/site-template/vifolio/assets/js/bootstrap.min.js)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/GET (from https://validthemes.net/site-template/vifolio/assets/js/particles.min.js)
+23:27:49	Error: 	"Not Found" (404) at link https://validthemes.net/site-template/vifolio/Error pJS - No image.src (from https://validthemes.net/site-template/vifolio/assets/js/particles.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 185 links scanned, 168 files written (8177882 bytes overall), 168 files updated [6604412 bytes received at 95716 bytes/sec], 2553457 bytes transferred using HTTP compression in 84 files, ratio 33%, 46.2 requests per connection
+(16 errors, 0 warnings, 0 messages)
